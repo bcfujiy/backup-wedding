@@ -11,7 +11,7 @@ There are lots of places to visit nearby; including 7 UNESCO World Heritage Site
 Our host Francesco can also arrange some [special private Tuscan experiences](https://www.chianti-farm.com/private_experiences.pdf) to do in the area while we’re there. There’s wine tasting, cooking classes, horseback riding,  truffle hunting -- and lots more. If you’d be interested in any of these experiences, let us know and we can arrange it with Francesco!
 
 ## November 1st holiday
-Monday November 1st is a holiday in Italy. Grocery stores and shops will be closed. Trains will run, but less frequently than a working day. Restaurants will be open.
+Note that Monday November 1st is a holiday in Italy. Grocery stores and shops will be closed. Trains will run, but less frequently than a working day. Restaurants will be open.
 
 ## Useful information
 Check [here](https://www.chianti-farm.com/useful-informations) for more useful information on the area and sites to visit.
