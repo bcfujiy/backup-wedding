@@ -2,13 +2,15 @@
 title: La fiesta
 ---
 
-We are getting married! We love you. Please celebrate with us :)
+We are getting married! \
+We love you \
+Come celebrate with us :)
 
 ## When
 Saturday, October 30th, 2021 \
 Welcome drinks: 1:30pm \
 Ceremony: 2:30pm \
-Aperitivi: 3:00pm \
+Aperitivo: 3:00pm \
 Dinner: 4:30pm 
 
 ## Where
