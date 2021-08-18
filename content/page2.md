@@ -15,9 +15,9 @@ There are transportation options (e.g., trains) to Montevarchi, the nearest town
 See [here](https://www.dropbox.com/s/x3s7ugy4a8emqg0/eng_laselva_driving_directions.pdf?dl=0) for driving directions to the villa - we recommend you print these out if you’re driving since they're a bit different from what your navigation might provide and in case you can't access them online. In general, we recommend you download maps in Google Maps so you can follow driving directions offline. A lot of the towns have narrow roads, so a smaller car will be the easiest to navigate with. Many major cities, like Florence, may be hard to drive in since they have a lot of one-way roads and entire pedestrian-only areas closed off to driving, so consider taking the train to explore those places. 
 
 ## Accommodations
-Our host Francesco has curated a list of vetted accommodations in the area, including plenty of options within a 5-15 minute drive from the venue. We will post a booking link to these places soon! Or feel free to make your own arrangements, you adventurous travelers. 
+There a lots of different options for accomodations in the area. [Here](https://www.airbnb.com/wishlists/972627988) are a few Airbnbs near the venue. If you prefer a hotel, there is the [Hotel Valdarno](https://www.tripadvisor.com/Hotel_Review-g488301-d657238-Reviews-Hotel_Valdarno-Montevarchi_Province_of_Arezzo_Tuscany.html) or [Palazzo Mari](https://www.booking.com/hotel/it/palazzo-mari-suite-amp-rooms-b-amp-b.it.html) in Montevarchi.
 
-## Transportation to/from the wedding 
+## Transportation to/from the wedding
 If you’re planning to take a taxi to the venue for the wedding, you will need to book your return taxi in advance since there are only 4 taxis available and the taxis typically don’t drive at night. Phone numbers for the taxi drivers are below. Since they speak little English, we recommend sending a message on Whatsapp using basic English to reserve with them:
 
 - NINO:        +39    335398127 
@@ -27,6 +27,25 @@ If you’re planning to take a taxi to the venue for the wedding, you will need 
 
 ## Coronavirus
 Since all of the festivities will be outside and all of the guests who are able to get vaccinated will be, many of us won’t be wearing masks, but please do however you feel comfortable! Be sure to check and comply with Covid regulations when you travel. These are changing pretty rapidly. Most international flights may require a negative PCR test before and after your flight. You can check [Italy’s Ministry of Health website](https://www.salute.gov.it/portale/nuovocoronavirus/dettaglioContenutiNuovoCoronavirus.jsp?lingua=english&id=5412&area=nuovoCoronavirus&menu=vuoto) for the latest information.
+
+## Where can I get a COVID test in Italy?
+Many airports in Italy offer COVID tests, we suggest you to check with your airline. In Montevarchi (10 minutes from the wedding venue), there are 2 places where you can get COVID tests:
+
+1. Farmacia Galeffi, [Via Roma 95 Montevarchi](https://www.google.com/maps/search/Via+Roma+95+Montevarchi?entry=gmail&source=g)
+- From Monday to Friday, 9:00 - 12:00 / 16:00 - 19:00
+- Saturday from 9:00 to 12:00
+- Sunday Closed
+- Antigenic COVID test, €15
+- PCR test not available
+- They provide results in 20 minutes in either Italian or English. I you want the results in English, this needs to be specified before performing the test. Passport or European ID is requested to take the test. Reservation is not required
+
+2. Istituto Gaetano Palloni, [Via Louis Pasteur, 35 Montevarchi](https://www.google.com/maps/place/Via+Louis+Pasteur,+35,+52025+Montevarchi+AR,+Italy/@43.537518,11.5577557,17z/data=!3m1!4b1!4m5!3m4!1s0x132bb84542b69b59:0x544af7a831368488!8m2!3d43.537518!4d11.5577557)
+- From Monday to Friday, 9:00 - 11:00 (only in the morning)
+- Saturday and Sunday Closed
+- Antigenic COVID test, €35, response in 20 minutes. They provide results in 20 minutes in either Italian or English. I you want the results in English, this needs to be specified before performing the test. Passport or European ID is requested to take the test. Reservation is required
+- PCR test cost, €65, response in 48 hours
+
+Additionally, in [Pisa and Florence Airport](https://aeroporti.misecup.com) is possible to get a COVID test. The laboratory is open every day from 8am to 7pm. Results are usually issued in 20 minutes. However, the lab can be busy so get there in advance. Tests are available only for passengers departing on the same day. You have to show your flight ticket to take the test. Test need to be reserved not later than 150 minutes before the flight departure.
 
 ## What about our kiddos?
 We love our little friends and everyone is welcome at our wedding. If you haven’t already, let us know who all is coming so we can be sure to account for everyone. If there’s interest, we can also arrange a babysitter to join us at La Selva - let us know if you would want the night off and you’d be interested in that!
