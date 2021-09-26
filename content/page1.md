@@ -8,7 +8,6 @@ Come celebrate with us :)
 
 ## When
 Saturday, October 30th, 2021 \
-Welcome drinks: 1:30pm \
 Ceremony: 2:30pm \
 Aperitivo: 3:00pm \
 Dinner: 4:30pm 
@@ -21,5 +20,9 @@ Learn more about this beautiful place [here](https://www.youtube.com/watch?v=YzY
 ## Attire
 Cocktail
 
-## More fun 
-Pizza at the Villa: Sunday, October 31, 2021 at noon
+## More fun
+- Informal grill at the Villa: Friday, October 29th, 2021 at 5pm
+- Masquerade Pizza Party at the Villa: Sunday, October 31st, 2021 at noon
+(It's Halloween! Masquerade masks encouraged, but not required)
+
+
