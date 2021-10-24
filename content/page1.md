@@ -9,8 +9,8 @@ Come celebrate with us :)
 ## When
 Saturday, October 30th, 2021 \
 Ceremony: 2:30pm \
-Aperitivo: 3:30pm \
-Dinner: 5:00pm 
+Aperitivi: 3:00pm \
+Dinner: 4:30pm 
 
 ## Where
 [La Selva Giardino del Belvedere](https://www.chianti-farm.com/) \
@@ -21,7 +21,7 @@ Learn more about this beautiful place [here](https://www.youtube.com/watch?v=YzY
 Cocktail
 
 ## More fun
-- Informal grill at the Villa: Friday, October 29th, 2021 at 4:30pm
+- Informal grill at the Villa: Friday, October 29th, 2021 at around 4:30pm
 - Masquerade Pizza Party at the Villa: Sunday, October 31st, 2021 at noon
 (It's Halloween! Masquerade masks encouraged, but not required)
 
